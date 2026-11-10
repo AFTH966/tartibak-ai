@@ -1,0 +1,33 @@
+{
+    "tool_name": "Tartibak AI",
+    "developer": "AFTH966 العنزي",
+    "total_apps": 14,
+    "classified_data": {
+        "🎮 ألعاب ومحاكيات (Games)": [
+            "com.activision.callofduty.shooter",
+            "com.mojang.minecraftpe",
+            "com.tencent.ig"
+        ],
+        "💬 تواصل اجتماعي ومراسلة (Social Media)": [
+            "com.facebook.katana",
+            "com.instagram.android",
+            "com.twitter.android",
+            "com.whatsapp"
+        ],
+        "🎬 وسائط وبث وترفيه (Media & Entertainment)": [
+            "com.google.android.youtube",
+            "com.netflix.mediaclient",
+            "com.spotify.music"
+        ],
+        "🛠️ أدوات وإنتاجية ونظام (Tools & Productivity)": [
+            "com.termux"
+        ],
+        "🛒 تسوق وخدمات بنكية (Shopping & Services)": [
+            "com.stc.pay"
+        ],
+        "📁 تطبيقات منوعة وأخرى (Others)": [
+            "com.google.android.apps.maps",
+            "sa.gov.absher.nayifat"
+        ]
+    }
+}
